@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic programming and UI/UX design
 - 📫 [to be updated]
 - 😄 Pronouns: they/she
-- ⚡ Fun fact: I was going to stop learning but a friend got me back into it.
+- ⚡ Fun fact: I picked up a lot of hobbies so I know how to do a lot of things.
 
 <!---
 nicoooo-23/nicoooo-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
