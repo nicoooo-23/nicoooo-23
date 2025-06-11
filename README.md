@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning basic programming and UI/UX design
 - 📫 [to be updated]
 - 😄 Pronouns: they/she
-- ⚡ Fun fact: I picked up a lot of hobbies so I know how to do a lot of things.
-
+- ⚡ 
 <!---
 nicoooo-23/nicoooo-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
