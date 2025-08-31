@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicoooo-23
-- 👀 I’m interested in front-end web development :DD
+- 👀 I’m interested in web development :DD
 - 🌱 I’m currently learning basic programming and UI/UX design
 - 📫 [to be updated]
 - 😄 Pronouns: they/them
