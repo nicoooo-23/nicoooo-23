@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @nicoooo-23
-- 👀 I’m interested in web development :DD
-- 🌱 I’m currently learning basic programming and UI/UX design
-- 📫 [to be updated]
-- 😄 Pronouns: they/them
-- ⚡ 🐟
-<!---
-nicoooo-23/nicoooo-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Nico
+
+**Aspiring Web Developer** | **UI/UX Learner**
+
+---
+
+### About Me
+- Currently learning basic programming and UI/UX design  
+- Interested in web development and creating intuitive, accessible designs  
+- Constantly exploring new tools and ways to improve my projects  
+
+---
+
+### Tools & Technologies
+- **Languages:** HTML, CSS, JavaScript (in progress)  
+- **Design:** Figma, Canva  
+- **Other:** Git, VS Code  
+
+---
+
+### Contact
+To be updated soon.
+
+---
+
+> “Good design is as little design as possible.” – Dieter Rams
