@@ -12,14 +12,14 @@
 ---
 
 ### Tools & Technologies
-- **Languages:** HTML, CSS, JavaScript (in progress)  
+- **Languages:** HTML, CSS, JavaScript (in progress), PHP  
 - **Design:** Figma, Canva  
 - **Other:** Git, VS Code  
 
 ---
 
 ### Contact
-To be updated soon.
+riveraent05@gmail.com
 
 ---
 
