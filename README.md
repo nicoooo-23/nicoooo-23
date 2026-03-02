@@ -13,7 +13,7 @@
 ---
 
 ### Tech Stack
-- **Languages:** PHP, JavaScript (in progress), SQL, HTML & CSS  
+- **Languages:** PHP, JavaScript (in progress), SQL, Python, Java, VB.NET, HTML & CSS  
 - **Backend Concepts:** CRUD operations, authentication, session management, form validation  
 - **Databases:** MySQL  
 - **Tools:** Git, VS Code  
