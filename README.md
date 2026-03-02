@@ -1,26 +1,33 @@
-# Hi, I'm Nico
+# Hi, I'm Nico  
 
-**Aspiring Web Developer** | **UI/UX Learner**
+**Aspiring Backend Developer** | **Web Development Learner**
 
 ---
 
 ### About Me
-- Currently learning basic programming and UI/UX design  
-- Interested in web development and creating intuitive, accessible designs  
-- Constantly exploring new tools and ways to improve my projects  
+- Currently focusing on backend development and server-side programming  
+- Interested in building secure, efficient, and scalable web applications  
+- Learning how databases, APIs, and server logic power real-world systems  
+- Continuously improving my problem-solving and coding structure  
 
 ---
 
-### Tools & Technologies
-- **Languages:** HTML, CSS, JavaScript (in progress), PHP  
-- **Design:** Figma, Canva  
-- **Other:** Git, VS Code  
+### Tech Stack
+- **Languages:** PHP, JavaScript (in progress), SQL, HTML & CSS  
+- **Backend Concepts:** CRUD operations, authentication, session management, form validation  
+- **Databases:** MySQL  
+- **Tools:** Git, VS Code  
+
+---
+
+### Current Goals
+- Strengthen backend fundamentals (validation, security, clean code structure)  
+- Build full-stack projects with a strong backend foundation  
+- Learn more about APIs and database design  
 
 ---
 
 ### Contact
-riveraent05@gmail.com
+riveraent05@gmail.com  
 
 ---
-
-> “Good design is as little design as possible.” – Dieter Rams
